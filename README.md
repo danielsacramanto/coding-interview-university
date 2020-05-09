@@ -1977,3 +1977,22 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
